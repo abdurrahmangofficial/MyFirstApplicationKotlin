@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First Application Kotlin</string>
+    <string name="this_will_show_the_toast">This will Show The Toast</string>
+</resources>
